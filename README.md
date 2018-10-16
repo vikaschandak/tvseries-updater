@@ -24,7 +24,7 @@ TVseries-Updater is a python web scraping script for updating you about release 
 ### Installing
 * Clone/Download this repository as zip file on your local machine.
 * Extract the zip file in your working directory.
-* In [emailinfo.txt](emailinfo.txt), enter space separated email id and password from which you want to recieve mail and save it.
+* In [emailinfo.txt](emailinfo.txt), enter space separated email id(gmail id only) and password from which you want to recieve mail and save it.
 * In [sqlinfo.txt](sqlinfo.txt), enter space separated username and password of your Mysql database and save it.  
 
 **Points to consider while entering email address:**  
